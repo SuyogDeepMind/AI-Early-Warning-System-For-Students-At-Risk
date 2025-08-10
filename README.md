@@ -151,6 +151,10 @@ brew install libomp
 
 ---
 
+👨‍💻 Author
+Suyog Manke
+Powered with ❤️ by Suyog Manke
+
 ## 📫 Connect With Me
 
 [LinkedIn](#) | [GitHub](#) | [Email](#)
